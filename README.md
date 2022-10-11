@@ -1,4 +1,4 @@
-
+![banner](banner.png)
 <h1 align="center">Hi 👋, I'm Macarena Muñoz</h1>
 <h3 align="center">A passionate Front-End Developer from Chile 🇨🇱</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://miro.medium.com/max/960/1*pnoqqpF_0GRYznRIXruY_w.gif”
