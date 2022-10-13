@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macamescobar&label=Profile%20views&color=0e75b6&style=flat"alt="macamescobar" /> </p>
 
-- 🌱 I’m currently learning **React, Bootstrap, Jest**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **macamescobar@gmail.com**
 
