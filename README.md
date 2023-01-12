@@ -20,4 +20,4 @@
 
 
 
-<p><img align="center" src="https://www.linkedin.com/in/macarenamu%C3%B1ozescobar/" alt="macamescobar" /></p>
+<p><img align="center" src="https://www.linkedin.com/in/macarenamu%C3%B1ozescobar/&" alt="macamescobar" /></p>
