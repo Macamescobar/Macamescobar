@@ -20,4 +20,3 @@
 
 
 
-<p><img align="center" src="https://www.linkedin.com/in/macarenamunozescobar/" alt="macamescobar" /></p>
