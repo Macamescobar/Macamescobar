@@ -1,4 +1,4 @@
-![banner](banner.png)
+
 <h1 align="center">I'm Macarena Muñoz 👩🏻‍💻 </h1>
 <h3 align="center">A passionate Web Developer from Chile 🇨🇱</h3>
 
